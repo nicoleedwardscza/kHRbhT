@@ -140,3 +140,4 @@
 - [跨境直播电商崛起国货出海新赛道](https://github.com/nicoleedwardscza/kHRbhT/commit/dc13e9a4127fa35e1604a8b03e4b59e3db92d67d)
 - [碳排放权质押试点企业利用碳资产获得融资新渠道](https://github.com/nicoleedwardscza/kHRbhT/commit/b5f6cf45d5d9fb38e7eb2c3067ef02bd465ed45f)
 - [农业托管小农户种地新模式](https://github.com/nicoleedwardscza/kHRbhT/commit/691e6ab14dfadecc43959650afec9c62f7f8837d)
+- [AI安全红队常态化，业务Agent渗透测试流程](https://github.com/nicoleedwardscza/kHRbhT/commit/a4462c0151df202013e722ea0dbdcc90eb275ae4)
