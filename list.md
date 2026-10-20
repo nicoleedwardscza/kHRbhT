@@ -129,3 +129,4 @@
 - [tls证书指纹批量计算，批量计算证书sha1 sha256指纹](https://github.com/nicoleedwardscza/kHRbhT/commit/d55ac2b8943433f7dee11c0bdf18f22e0e47e752)
 - [github组织外部协作者清单导出，导出所有外部协作者权限仓库](https://github.com/nicoleedwardscza/kHRbhT/commit/ef8473358a83e6999ea3684a2dd2fb1cc6c31bbb)
 - [运维开发开源代码仓库 工程源码搭配容器化部署实操](https://github.com/nicoleedwardscza/kHRbhT/commit/204ffef50b28df781236b229909b2e1771914278)
+- [农机购置补贴，补贴资金直接发放到农户个人账户](https://github.com/nicoleedwardscza/kHRbhT/commit/8e6e5f1b46123bf0f92fa1b0fa0b16be79ab0841)
