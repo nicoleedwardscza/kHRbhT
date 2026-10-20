@@ -126,3 +126,4 @@
 - [菜籽花生油料丰收油脂供给宽松压制油脂价格走势](https://github.com/nicoleedwardscza/kHRbhT/commit/07bdfee1332ca2bb8024a1b11f983feda2c5613e)
 - [到处宣扬遍地机会，普通人赚钱依旧举步维艰](https://github.com/nicoleedwardscza/kHRbhT/commit/e04245882443e358cd0035f2ce80404e130b39af)
 - [OCR开源模型，小语种识别精度严重不足](https://github.com/nicoleedwardscza/kHRbhT/commit/91ebafbe6f3e5320b7e913188e27bdfb250acbb1)
+- [tls证书指纹批量计算，批量计算证书sha1 sha256指纹](https://github.com/nicoleedwardscza/kHRbhT/commit/d55ac2b8943433f7dee11c0bdf18f22e0e47e752)
