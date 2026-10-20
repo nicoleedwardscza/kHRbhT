@@ -114,3 +114,4 @@
 - [数据库悲观锁乐观锁实战工程 完整源码两种锁业务场景示例](https://github.com/nicoleedwardscza/kHRbhT/commit/fb8b12b3104fe0a44d584ab7a9c0057d85456538)
 - [创新药热度居高不下，跑通盈利模型的极少](https://github.com/nicoleedwardscza/kHRbhT/commit/e1c7d37ed0e96e152a34a47642a6d9de398ae08d)
 - [技术开源文档设置页面过期提示避免误导用户](https://github.com/nicoleedwardscza/kHRbhT/commit/f13dfcf7a6c9f8022160352385a55256d81e8862)
+- [轻量快速部署表格开源项目源码 源码开放包含本地部署步骤](https://github.com/nicoleedwardscza/kHRbhT/commit/5d22d79acf1c41a8656d8ead9d70415d2d663b8d)
