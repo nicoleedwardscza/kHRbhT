@@ -80,3 +80,4 @@
 - [开源技术手册正文内容布局适配百度算法](https://github.com/nicoleedwardscza/kHRbhT/commit/a87b9df760bb9113da00de320ee4830400d299ea)
 - [简易消息推送 Demo 开源仓库 完整源码实现多渠道消息推送逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/18696c68422e117dd76556026ab9366c63b4fc76)
 - [都说要逆向投资，普通人逆向往往抄在半山腰](https://github.com/nicoleedwardscza/kHRbhT/commit/c611aabfba20ac31141e5dace40145e75d7788a1)
+- [Gitee Pages CDN 节点缓存刷新操作方法](https://github.com/nicoleedwardscza/kHRbhT/commit/6f4f73d0e71804f81e15b62e976ea6975bdcfcfe)
