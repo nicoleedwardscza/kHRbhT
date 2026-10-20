@@ -35,3 +35,4 @@
 - [Actions作业取消策略，旧任务自动取消节省算力](https://github.com/nicoleedwardscza/kHRbhT/commit/77a9470cc9a883afbb3c2f55f88e4dc92164cd74)
 - [城市一刻钟便民生活圈，如何真正惠及小微实体商户](https://github.com/nicoleedwardscza/kHRbhT/commit/8d9395aaebb84a2d4bbf7585f55fade2337d4531)
 - [民办养老机构质量分级行业迎来洗牌](https://github.com/nicoleedwardscza/kHRbhT/commit/b75510ae9f30b87f15f444a97e4f46b81dd114ea)
+- [PR被拒绝不说明理由，外部贡献者无法改进代码](https://github.com/nicoleedwardscza/kHRbhT/commit/d93eda299972634a589467c11ada427c9e7f8bdb)
