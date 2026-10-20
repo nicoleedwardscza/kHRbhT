@@ -154,3 +154,4 @@
 - [IP 网段遍历检测开源 Demo 完整源码扫描网段存活主机](https://github.com/nicoleedwardscza/kHRbhT/commit/f90aa1fd01b29b7d1f06a5686f00d83d1129c3e7)
 - [本地pdf附件批量解压导出，解压pdf内嵌附件保存至目录](https://github.com/nicoleedwardscza/kHRbhT/commit/458f50875f36abb26bbc19ea70721cb377e2ff71)
 - [curl转c语言libcurl代码，curl命令转换为libcurl调用代码](https://github.com/nicoleedwardscza/kHRbhT/commit/39e1817ccc99e624336e915c5bfdd04649faf96b)
+- [批量生成图片缩略图 Demo 完整源码批量输出缩略图](https://github.com/nicoleedwardscza/kHRbhT/commit/054407db8d07da1ef29517b5e965fd2f0e58f2ef)
