@@ -29,3 +29,4 @@
 - [文本按关键字分片源码 完整源码按关键词切割大文本](https://github.com/nicoleedwardscza/kHRbhT/commit/c1c59b0d6b84ff0a785ab1da0a50087cdb1a20fe)
 - [数据比对工具开源项目 完整源码实现多组数据对比校验](https://github.com/nicoleedwardscza/kHRbhT/commit/a327cd6ee373ac759ecf7cded5ea778924d567c5)
 - [进程间管道通信开源源码 完整源码管道完成进程数据交互](https://github.com/nicoleedwardscza/kHRbhT/commit/ac6f81b27874cf4172a8f69555eaf13459cafd01)
+- [简易任务队列模拟开源工程 完整源码实现任务入队出队逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/e9e3a1c2bdec5edc8bb47d78696ad6844e892572)
