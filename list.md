@@ -66,3 +66,4 @@
 - [GitHub raw资源被墙，文档内图片脚本全部失效](https://github.com/nicoleedwardscza/kHRbhT/commit/f8526e205d0041164d49cf4794e5a60b2b625386)
 - [依赖版本锁文件冲突，lock文件合并冲突痛点](https://github.com/nicoleedwardscza/kHRbhT/commit/0e4ce3523514e992876eb60958f2f0262acf39fa)
 - [AI虚拟身份泛滥，个人数字身份安全防护](https://github.com/nicoleedwardscza/kHRbhT/commit/da54e40a70663cd9c8ff33dea3a4ad019877f64f)
+- [职业教育社会偏见破除现实路径](https://github.com/nicoleedwardscza/kHRbhT/commit/7b99e27b3f50b15a90aec2f6382133e8b374b0c5)
