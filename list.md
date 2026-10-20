@@ -152,3 +152,4 @@
 - [AI试点规模化阻碍，数据质量与组织阻力剖析](https://github.com/nicoleedwardscza/kHRbhT/commit/47622eef99733f72bb1d9b6537231a5d0a1dffce)
 - [http etag 协商缓存开源工程 完整源码 etag 协商缓存逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/835d9d06cebd12b4d516eb19aa8e9be83eb8aafd)
 - [IP 网段遍历检测开源 Demo 完整源码扫描网段存活主机](https://github.com/nicoleedwardscza/kHRbhT/commit/f90aa1fd01b29b7d1f06a5686f00d83d1129c3e7)
+- [本地pdf附件批量解压导出，解压pdf内嵌附件保存至目录](https://github.com/nicoleedwardscza/kHRbhT/commit/458f50875f36abb26bbc19ea70721cb377e2ff71)
