@@ -146,3 +146,4 @@
 - [美债消息满天飞，别被短期消息左右操作](https://github.com/nicoleedwardscza/kHRbhT/commit/027474b9857928f3805fdcbdd53fd691129ce8d2)
 - [简易 web 文件服务器开源工程 完整源码 http 静态文件服务](https://github.com/nicoleedwardscza/kHRbhT/commit/bc05076ccfebaa57115e767e6d26482dac469468)
 - [github仓库secret扫描告警导出，导出密钥扫描发现的风险告警](https://github.com/nicoleedwardscza/kHRbhT/commit/eaafa58c5320881b18874bd8c007d10ad1f75477)
+- [收缩城市人口外流，公共资源优化配置路径](https://github.com/nicoleedwardscza/kHRbhT/commit/c672ef95ad7cd35a3e5a75e432a483e9d46bd538)
