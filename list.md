@@ -130,3 +130,4 @@
 - [github组织外部协作者清单导出，导出所有外部协作者权限仓库](https://github.com/nicoleedwardscza/kHRbhT/commit/ef8473358a83e6999ea3684a2dd2fb1cc6c31bbb)
 - [运维开发开源代码仓库 工程源码搭配容器化部署实操](https://github.com/nicoleedwardscza/kHRbhT/commit/204ffef50b28df781236b229909b2e1771914278)
 - [农机购置补贴，补贴资金直接发放到农户个人账户](https://github.com/nicoleedwardscza/kHRbhT/commit/8e6e5f1b46123bf0f92fa1b0fa0b16be79ab0841)
+- [Markdown 技术文档摘要适配百度搜索展示](https://github.com/nicoleedwardscza/kHRbhT/commit/4971af3306ea27d0b1086c81a88041c60b9a6c98)
