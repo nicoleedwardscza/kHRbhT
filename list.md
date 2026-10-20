@@ -33,3 +33,4 @@
 - [GitHub 消息队列演示开源项目 可运行源码附带消息调试示例](https://github.com/nicoleedwardscza/kHRbhT/commit/b9d97a3f6ee7ae88d9a27150ace7ad3a6d43d306)
 - [文本句子分句切分工具，长文本按语义智能切分句子段落](https://github.com/nicoleedwardscza/kHRbhT/commit/27c2c5d36c892c730125ad7e65415ff6f7d1a1c3)
 - [Actions作业取消策略，旧任务自动取消节省算力](https://github.com/nicoleedwardscza/kHRbhT/commit/77a9470cc9a883afbb3c2f55f88e4dc92164cd74)
+- [城市一刻钟便民生活圈，如何真正惠及小微实体商户](https://github.com/nicoleedwardscza/kHRbhT/commit/8d9395aaebb84a2d4bbf7585f55fade2337d4531)
