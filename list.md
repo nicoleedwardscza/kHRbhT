@@ -65,3 +65,4 @@
 - [轻量文件解析开源代码库 二次开发指南与读写转换完整示例](https://github.com/nicoleedwardscza/kHRbhT/commit/e56b86a3964fc69678b01b2d6d7dfc46a3a0deaf)
 - [GitHub raw资源被墙，文档内图片脚本全部失效](https://github.com/nicoleedwardscza/kHRbhT/commit/f8526e205d0041164d49cf4794e5a60b2b625386)
 - [依赖版本锁文件冲突，lock文件合并冲突痛点](https://github.com/nicoleedwardscza/kHRbhT/commit/0e4ce3523514e992876eb60958f2f0262acf39fa)
+- [AI虚拟身份泛滥，个人数字身份安全防护](https://github.com/nicoleedwardscza/kHRbhT/commit/da54e40a70663cd9c8ff33dea3a4ad019877f64f)
