@@ -22,3 +22,4 @@
 - [轻量可部署开源项目 源码开放包含快速搭建指南](https://github.com/nicoleedwardscza/kHRbhT/commit/7b987120f0da2ae7a6d69cb1be317307da7e3987)
 - [url参数排序标准化工具，对url查询参数排序生成标准化链接](https://github.com/nicoleedwardscza/kHRbhT/commit/56f6a2107aec1cf9da6a722f3d53e2fb6695ac98)
 - [JSON样本自动生成Schema校验规则脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/561a26db3723728ed1f110307ce651278bd3d71d)
+- [别迷信债市避险属性，债市回撤杀伤力惊人](https://github.com/nicoleedwardscza/kHRbhT/commit/4d8a0979d6829a26748eb9d95890c8c8d704049a)
