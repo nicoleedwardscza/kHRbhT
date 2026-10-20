@@ -20,3 +20,4 @@
 - [静态文档避免页面内容过少触发百度低质预警](https://github.com/nicoleedwardscza/kHRbhT/commit/56459a9c5832ae3b6b6204d674108d73546688be)
 - [大批量数据批量插入开源仓库 完整源码高性能批量入库](https://github.com/nicoleedwardscza/kHRbhT/commit/9eadf7b59dcc5aef1fd59aa2e0fd07d7da18dfb7)
 - [轻量可部署开源项目 源码开放包含快速搭建指南](https://github.com/nicoleedwardscza/kHRbhT/commit/7b987120f0da2ae7a6d69cb1be317307da7e3987)
+- [url参数排序标准化工具，对url查询参数排序生成标准化链接](https://github.com/nicoleedwardscza/kHRbhT/commit/56f6a2107aec1cf9da6a722f3d53e2fb6695ac98)
