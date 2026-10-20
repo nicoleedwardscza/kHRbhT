@@ -78,3 +78,4 @@
 - [文件递归权限修复脚本，递归修复目录文件读写执行权限](https://github.com/nicoleedwardscza/kHRbhT/commit/b1187512c83294897d899c53a0a6952e3ff2625a)
 - [拿来即用日志代码资源库 全套源码配套运行异常处理方案](https://github.com/nicoleedwardscza/kHRbhT/commit/55bba56f3be1480e5d0237d5131750f8e541ed66)
 - [开源技术手册正文内容布局适配百度算法](https://github.com/nicoleedwardscza/kHRbhT/commit/a87b9df760bb9113da00de320ee4830400d299ea)
+- [简易消息推送 Demo 开源仓库 完整源码实现多渠道消息推送逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/18696c68422e117dd76556026ab9366c63b4fc76)
