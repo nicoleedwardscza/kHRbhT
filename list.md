@@ -156,3 +156,4 @@
 - [curl转c语言libcurl代码，curl命令转换为libcurl调用代码](https://github.com/nicoleedwardscza/kHRbhT/commit/39e1817ccc99e624336e915c5bfdd04649faf96b)
 - [批量生成图片缩略图 Demo 完整源码批量输出缩略图](https://github.com/nicoleedwardscza/kHRbhT/commit/054407db8d07da1ef29517b5e965fd2f0e58f2ef)
 - [大宗商品大涨，成本最终转嫁老百姓](https://github.com/nicoleedwardscza/kHRbhT/commit/9c46a93d2bb15806639a922f2c9450e32f916db4)
+- [技术开源文档把核心结论放置在页面靠前位置](https://github.com/nicoleedwardscza/kHRbhT/commit/f1d068afbc5c972a35788713a69465abb257d4b0)
