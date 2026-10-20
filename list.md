@@ -192,3 +192,4 @@
 - [中文开源仓库优化百度搜索结果点击率](https://github.com/nicoleedwardscza/kHRbhT/commit/19b854cb6d8ee7dc636badd49829f77054605771)
 - [幼小衔接去小学化，学前教育改革持续深化](https://github.com/nicoleedwardscza/kHRbhT/commit/d2709c89661b2fc59fd969dcfee6a39283f15b57)
 - [TCC 事务简易模拟 Demo 完整源码 Try Confirm Cancel 流程](https://github.com/nicoleedwardscza/kHRbhT/commit/5e3f455d08b43414dad2df0c077d0019bbf39f1f)
+- [markdown批量解析脚注引用关系，解析脚注与正文引用对应关系](https://github.com/nicoleedwardscza/kHRbhT/commit/e1dfd24c1824fa18cc9732958f19af7b741d7c15)
