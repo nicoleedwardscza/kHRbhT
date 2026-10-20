@@ -150,3 +150,4 @@
 - [乡村学校师资流动难破解路径](https://github.com/nicoleedwardscza/kHRbhT/commit/40a06def311258a7f80269134347f15724498579)
 - [Excel 批量导入导出开源工程 完整源码百万级表格读写](https://github.com/nicoleedwardscza/kHRbhT/commit/5d009c27aa2d06ece4a862e4257d790091008c96)
 - [AI试点规模化阻碍，数据质量与组织阻力剖析](https://github.com/nicoleedwardscza/kHRbhT/commit/47622eef99733f72bb1d9b6537231a5d0a1dffce)
+- [http etag 协商缓存开源工程 完整源码 etag 协商缓存逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/835d9d06cebd12b4d516eb19aa8e9be83eb8aafd)
