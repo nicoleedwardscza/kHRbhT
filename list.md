@@ -105,3 +105,4 @@
 - [家庭负债过高如何理性调整收支](https://github.com/nicoleedwardscza/kHRbhT/commit/cc09f7e966b6b4da590d1fe736f224a9300e11e6)
 - [jsonl嵌套字段提取工具，批量提取jsonl嵌套子字段输出](https://github.com/nicoleedwardscza/kHRbhT/commit/61ca80cd4a35abd42a5b959d24ef3d0b91d82984)
 - [中间件辅助开源工程 完整源码包含参数优化调优手册](https://github.com/nicoleedwardscza/kHRbhT/commit/da8358254c46b750cdf5a9518538edc172f7475a)
+- [Release资产附件过大，超出GitHub存储限制](https://github.com/nicoleedwardscza/kHRbhT/commit/7ef964a159d98f480098b97fa0e5fb7744294d2f)
