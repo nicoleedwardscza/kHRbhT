@@ -18,3 +18,4 @@
 - [github仓库webhook投递失败重试脚本，重放投递失败webhook事件](https://github.com/nicoleedwardscza/kHRbhT/commit/31956d884603c587cc6a948033cf889a3cb7bdc3)
 - [提升百度收录开源文档正文内容写作要点](https://github.com/nicoleedwardscza/kHRbhT/commit/febc8b0f31eaa25304faff35f44ae1b3433fed76)
 - [静态文档避免页面内容过少触发百度低质预警](https://github.com/nicoleedwardscza/kHRbhT/commit/56459a9c5832ae3b6b6204d674108d73546688be)
+- [大批量数据批量插入开源仓库 完整源码高性能批量入库](https://github.com/nicoleedwardscza/kHRbhT/commit/9eadf7b59dcc5aef1fd59aa2e0fd07d7da18dfb7)
