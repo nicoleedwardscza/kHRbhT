@@ -101,3 +101,4 @@
 - [AI辅助测试生成，单元测试覆盖率注水现象](https://github.com/nicoleedwardscza/kHRbhT/commit/7cc4c9a6794ea9c7d46af11b58322110fe1fa9f2)
 - [开源文档站点提交百度 API 推送链接实操](https://github.com/nicoleedwardscza/kHRbhT/commit/fa5e4b773054e11c8a4729335d0bb092d7f841a3)
 - [长线资金持续进场，不要幻想稳赚不赔行情](https://github.com/nicoleedwardscza/kHRbhT/commit/d3df179fa6b04d9c38ec9919768dd72dd3f8a26c)
+- [医保省级统筹推进，省内医保制度统一](https://github.com/nicoleedwardscza/kHRbhT/commit/8ecebe0567e20dec8e5edc44a2326d5d40a4f4bd)
