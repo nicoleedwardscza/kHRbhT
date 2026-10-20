@@ -168,3 +168,4 @@
 - [别被骗！消费复苏，只是局部热闹](https://github.com/nicoleedwardscza/kHRbhT/commit/d8a870c5175226d6121320533e8af86939e73351)
 - [老人把房子赠与子女，赠与之后还能收回房产吗](https://github.com/nicoleedwardscza/kHRbhT/commit/76c7e688a4e1a46ac5f255fc3fc304d4f3faeaad)
 - [AI完整SBOM行业标准推进，数据集提示词纳入规范](https://github.com/nicoleedwardscza/kHRbhT/commit/19b3d3ac3730a2e5f3253cb8a76e5a1f355bb33c)
+- [三季度财政发力预期升温专项债与特别国债合力托举国内经济](https://github.com/nicoleedwardscza/kHRbhT/commit/5a6ea5b49ee541ab232872d9cca52251834ef0c7)
