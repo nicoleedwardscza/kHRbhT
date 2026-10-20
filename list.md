@@ -123,3 +123,4 @@
 - [风电整机价格走低风电行业盈利承压企业如何破局](https://github.com/nicoleedwardscza/kHRbhT/commit/4676ebb36e6cc7f5c31072e2b041d26f26dd2479)
 - [夫妻离婚公积金如何分割住房公积金也属于共同财产](https://github.com/nicoleedwardscza/kHRbhT/commit/785a3612e2e742a22b44b72b17f3bb08cd1c6b2a)
 - [真实业务练手开源仓库 完整源码附带全套踩坑复盘文档](https://github.com/nicoleedwardscza/kHRbhT/commit/d2eaa717b20061d0864588aba49ddcd4fb245811)
+- [菜籽花生油料丰收油脂供给宽松压制油脂价格走势](https://github.com/nicoleedwardscza/kHRbhT/commit/07bdfee1332ca2bb8024a1b11f983feda2c5613e)
