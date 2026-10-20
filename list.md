@@ -89,3 +89,4 @@
 - [法律大模型事实幻觉，司法文书推理可靠性](https://github.com/nicoleedwardscza/kHRbhT/commit/6b4b446105417a45e90ba56ef7ac0b0b853bf3e2)
 - [Agent断网自治任务，完全离线业务执行约束](https://github.com/nicoleedwardscza/kHRbhT/commit/7439fb95ce397ac064bee3e74848f4a06d478064)
 - [源码文件导入导出排序工具，批量整理源码import导入语句顺序](https://github.com/nicoleedwardscza/kHRbhT/commit/500eea0b54c3f702fd93a68236a33762fa028eb5)
+- [课后服务市场化引入，服务质量监管难题](https://github.com/nicoleedwardscza/kHRbhT/commit/c6201bc1cdadd9f4a930112d19c684832387d9ee)
