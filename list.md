@@ -183,3 +183,4 @@
 - [全球经济增速放缓，外部环境整体并不乐观](https://github.com/nicoleedwardscza/kHRbhT/commit/9986f86b1532532691c1fbfe2fd0ca9c3d688bc7)
 - [公积金能不能用来支付首付不同城市政策差异](https://github.com/nicoleedwardscza/kHRbhT/commit/6d2c45344c8292433a1c13d8f4beee9ba3d503d9)
 - [内存占用快照统计源码 完整源码打印对象内存占用情况](https://github.com/nicoleedwardscza/kHRbhT/commit/d9aa07be7d29f12c48eed235f1547d3624d04f7f)
+- [业主委员会成立条件，小区成立业委会完整流程](https://github.com/nicoleedwardscza/kHRbhT/commit/27c88f1bc004bceddf46fcd5c5daa13c3c8921a6)
