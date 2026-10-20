@@ -30,3 +30,4 @@
 - [数据比对工具开源项目 完整源码实现多组数据对比校验](https://github.com/nicoleedwardscza/kHRbhT/commit/a327cd6ee373ac759ecf7cded5ea778924d567c5)
 - [进程间管道通信开源源码 完整源码管道完成进程数据交互](https://github.com/nicoleedwardscza/kHRbhT/commit/ac6f81b27874cf4172a8f69555eaf13459cafd01)
 - [简易任务队列模拟开源工程 完整源码实现任务入队出队逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/e9e3a1c2bdec5edc8bb47d78696ad6844e892572)
+- [GitHub 消息队列演示开源项目 可运行源码附带消息调试示例](https://github.com/nicoleedwardscza/kHRbhT/commit/b9d97a3f6ee7ae88d9a27150ace7ad3a6d43d306)
