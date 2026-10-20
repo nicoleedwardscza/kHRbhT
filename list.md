@@ -111,3 +111,4 @@
 - [年休假政策解读单位不让休年假可以拿到补偿吗](https://github.com/nicoleedwardscza/kHRbhT/commit/297378454277be0ada142fc87a741c4c25b30a2f)
 - [废旧物资回收体系完善，旧家电旧纺织品循环](https://github.com/nicoleedwardscza/kHRbhT/commit/451efc424615582fb6aedbc0d6131c225303807e)
 - [黄金价格高位震荡，多重因素下金价后市走势深度分析](https://github.com/nicoleedwardscza/kHRbhT/commit/dc72cf2abb8d9e35baeafa8f0bfd720382ad7e77)
+- [数据库悲观锁乐观锁实战工程 完整源码两种锁业务场景示例](https://github.com/nicoleedwardscza/kHRbhT/commit/fb8b12b3104fe0a44d584ab7a9c0057d85456538)
