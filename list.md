@@ -160,3 +160,4 @@
 - [社区便民服务扩容，社区食堂便民网点普及](https://github.com/nicoleedwardscza/kHRbhT/commit/802419678f482bf5bea553ec1a697bbce91f9f2c)
 - [编码解码工具开源源码 完整源码实现 base64 等编解码处理](https://github.com/nicoleedwardscza/kHRbhT/commit/e670f0104c302dc5550a00a8c9f09c7fa2b03346)
 - [pdf页面顺序重排工具，调整pdf页面顺序删除多余页面](https://github.com/nicoleedwardscza/kHRbhT/commit/32706f1a5ae4d508bfacf1ff655e9f272b630b12)
+- [MQ 消息幂等消费开源工程 完整源码避免消息重复消费](https://github.com/nicoleedwardscza/kHRbhT/commit/bbd3a0554ef2c924d2212553bb829ec6333e214d)
