@@ -31,3 +31,4 @@
 - [进程间管道通信开源源码 完整源码管道完成进程数据交互](https://github.com/nicoleedwardscza/kHRbhT/commit/ac6f81b27874cf4172a8f69555eaf13459cafd01)
 - [简易任务队列模拟开源工程 完整源码实现任务入队出队逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/e9e3a1c2bdec5edc8bb47d78696ad6844e892572)
 - [GitHub 消息队列演示开源项目 可运行源码附带消息调试示例](https://github.com/nicoleedwardscza/kHRbhT/commit/b9d97a3f6ee7ae88d9a27150ace7ad3a6d43d306)
+- [文本句子分句切分工具，长文本按语义智能切分句子段落](https://github.com/nicoleedwardscza/kHRbhT/commit/27c2c5d36c892c730125ad7e65415ff6f7d1a1c3)
