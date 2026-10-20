@@ -118,3 +118,4 @@
 - [云厂商算力资本开支激增各大科技企业加大AI硬件战略囤货力度](https://github.com/nicoleedwardscza/kHRbhT/commit/d1878058189c31b66ec0bdf3170e66975e8b1829)
 - [电动车电池回收体系，动力电池循环利用](https://github.com/nicoleedwardscza/kHRbhT/commit/4474e3ddd030d05e05acece494dcc396337c5139)
 - [测试环境一键启动数据库开源源码库 源码资源配套环境初始化脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/2718e099b7d3a9e99a4ec53805529f11b53805a1)
+- [进程守护监控源码 完整源码守护进程监测重启子进程](https://github.com/nicoleedwardscza/kHRbhT/commit/4efd1034c12ebf7fb9d6e11624ce3fe8cc2069c8)
