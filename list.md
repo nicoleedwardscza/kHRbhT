@@ -36,3 +36,4 @@
 - [城市一刻钟便民生活圈，如何真正惠及小微实体商户](https://github.com/nicoleedwardscza/kHRbhT/commit/8d9395aaebb84a2d4bbf7585f55fade2337d4531)
 - [民办养老机构质量分级行业迎来洗牌](https://github.com/nicoleedwardscza/kHRbhT/commit/b75510ae9f30b87f15f444a97e4f46b81dd114ea)
 - [PR被拒绝不说明理由，外部贡献者无法改进代码](https://github.com/nicoleedwardscza/kHRbhT/commit/d93eda299972634a589467c11ada427c9e7f8bdb)
+- [高效接口 Demo 实战开源源码合集 完整工程附带二次开发样例](https://github.com/nicoleedwardscza/kHRbhT/commit/8afed34bb765c79dc24332caac87f2bf0562552e)
