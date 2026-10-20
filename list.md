@@ -71,3 +71,4 @@
 - [液冷大规模普及，老旧机房改造成本与限制](https://github.com/nicoleedwardscza/kHRbhT/commit/11f3bb9d197cb1754dc6aa6f2b69146a4c2dadf3)
 - [城市地下综合管廊普及，城市安全韧性提升](https://github.com/nicoleedwardscza/kHRbhT/commit/6298752c385e9aa9492c534b67afb04bff6eb078)
 - [PPI出现回暖信号，不要草率判定经济大拐点](https://github.com/nicoleedwardscza/kHRbhT/commit/ef474e588d9079e771838ba8f4b236dfb8056353)
+- [目录文件校验对比报告，对比源目标目录输出哈希校验差异报告](https://github.com/nicoleedwardscza/kHRbhT/commit/0c84fcaaa802020397583bcccae04aecfdca40ab)
