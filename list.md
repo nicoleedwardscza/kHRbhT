@@ -50,3 +50,4 @@
 - [通用漏桶限流器开源工程 完整源码可复用流量控制组件](https://github.com/nicoleedwardscza/kHRbhT/commit/ea014a3a2c530f1ec05600d68b70640bedb4dbdc)
 - [婚前同居财产纠纷该如何处理](https://github.com/nicoleedwardscza/kHRbhT/commit/a0461962651a327f95c44e21c16a9bacc0fae1c6)
 - [储蓄型保险热销低利率环境下保险产品配置价值解析](https://github.com/nicoleedwardscza/kHRbhT/commit/d98f4ed149697fca93805ea9dc13ba379b0277fe)
+- [工商业储能需求爆发企业侧储能打开巨大增量市场](https://github.com/nicoleedwardscza/kHRbhT/commit/e535c4deb71558204300032baa717423161a1c18)
