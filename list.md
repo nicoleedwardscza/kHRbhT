@@ -92,3 +92,4 @@
 - [课后服务市场化引入，服务质量监管难题](https://github.com/nicoleedwardscza/kHRbhT/commit/c6201bc1cdadd9f4a930112d19c684832387d9ee)
 - [企业留抵退税政策，如何切实减轻重资产企业负担](https://github.com/nicoleedwardscza/kHRbhT/commit/310f38f6d18d12dd7baecc82977268bd77b31057)
 - [个人信用体系优化，减少过度征信惩戒](https://github.com/nicoleedwardscza/kHRbhT/commit/ce8b02a25008c13c05f4ec5f5d0079466861fe8a)
+- [共享车位大规模盘活，城市停车难题缓解](https://github.com/nicoleedwardscza/kHRbhT/commit/6a39493b6a74d85801dc1379d6728f8def27bc99)
