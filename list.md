@@ -8,3 +8,4 @@
 - [保障性租赁住房申请流程常见误区](https://github.com/nicoleedwardscza/kHRbhT/commit/6eba69fe18e9ded8f1fdc13399717a449e3c88b7)
 - [部分行业盲目扩张，产能没有匹配真实市场需求](https://github.com/nicoleedwardscza/kHRbhT/commit/64394a408e44d21d0ead9ce08fb29b503ed20c61)
 - [AI混沌故障注入，模拟真实业务组合故障模式](https://github.com/nicoleedwardscza/kHRbhT/commit/ac9a91772c097cd540985ce72b07cfb99d38f89f)
+- [大学生副业乱象如何规避兼职陷阱](https://github.com/nicoleedwardscza/kHRbhT/commit/45ef942a8d99f484d1d94221cbf22a4d6e95886d)
