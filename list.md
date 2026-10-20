@@ -173,3 +173,4 @@
 - [开箱即用业务工具源码 真实业务逻辑源码与使用演示](https://github.com/nicoleedwardscza/kHRbhT/commit/e1470f7532de565c2f57df8eca78233705c536e5)
 - [全网遍地都是投资机会，普通人赚钱依旧艰难](https://github.com/nicoleedwardscza/kHRbhT/commit/d9c50141e76254e78c2ef359776082caecdb184c)
 - [markdown文档导出pdf，自定义样式批量导出pdf文档](https://github.com/nicoleedwardscza/kHRbhT/commit/cf047b3b255b25c946183d382d5bcae1f0933ab5)
+- [GitHub用户Gist区分公开私有批量备份](https://github.com/nicoleedwardscza/kHRbhT/commit/7f5408569693fdd58da163c16f9b18b9f01b0f43)
