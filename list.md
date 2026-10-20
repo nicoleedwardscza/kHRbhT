@@ -107,3 +107,4 @@
 - [中间件辅助开源工程 完整源码包含参数优化调优手册](https://github.com/nicoleedwardscza/kHRbhT/commit/da8358254c46b750cdf5a9518538edc172f7475a)
 - [Release资产附件过大，超出GitHub存储限制](https://github.com/nicoleedwardscza/kHRbhT/commit/7ef964a159d98f480098b97fa0e5fb7744294d2f)
 - [本地带时间戳udp日志服务，接收udp报文附带时间戳写入日志](https://github.com/nicoleedwardscza/kHRbhT/commit/8804c3fb6ac68464396481a098b3b7d4b9f01e71)
+- [开源AI绘图项目，训练素材版权纠纷持续](https://github.com/nicoleedwardscza/kHRbhT/commit/1be474b5b07ff7411d55fd7bf3823d5830e7cc9d)
