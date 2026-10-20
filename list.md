@@ -43,3 +43,4 @@
 - [零信任网络真实落地，替代VPN之后的利弊](https://github.com/nicoleedwardscza/kHRbhT/commit/bb447bc7822fa4b818570b37125d11b617eab180)
 - [全栈文件 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/nicoleedwardscza/kHRbhT/commit/a4fd60e2d8c2a02a9848c99b74b71a9f5127c8e0)
 - [AI工作流运行时类型逃逸，TypeScript约束失效](https://github.com/nicoleedwardscza/kHRbhT/commit/02e39c938c25f625489a53deed7d5b13fbeed560)
+- [开源脚本实战项目源码库 源码资源含本地环境适配排错](https://github.com/nicoleedwardscza/kHRbhT/commit/623c0ae832e269f400188497c4a4dd60b1a15a0f)
