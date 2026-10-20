@@ -110,3 +110,4 @@
 - [开源AI绘图项目，训练素材版权纠纷持续](https://github.com/nicoleedwardscza/kHRbhT/commit/1be474b5b07ff7411d55fd7bf3823d5830e7cc9d)
 - [年休假政策解读单位不让休年假可以拿到补偿吗](https://github.com/nicoleedwardscza/kHRbhT/commit/297378454277be0ada142fc87a741c4c25b30a2f)
 - [废旧物资回收体系完善，旧家电旧纺织品循环](https://github.com/nicoleedwardscza/kHRbhT/commit/451efc424615582fb6aedbc0d6131c225303807e)
+- [黄金价格高位震荡，多重因素下金价后市走势深度分析](https://github.com/nicoleedwardscza/kHRbhT/commit/dc72cf2abb8d9e35baeafa8f0bfd720382ad7e77)
