@@ -74,3 +74,4 @@
 - [目录文件校验对比报告，对比源目标目录输出哈希校验差异报告](https://github.com/nicoleedwardscza/kHRbhT/commit/0c84fcaaa802020397583bcccae04aecfdca40ab)
 - [内需提振，需要打通收入、预期、消费的完整链条](https://github.com/nicoleedwardscza/kHRbhT/commit/0b009829b75ab25359b51a1d9da35be83432d7fb)
 - [云原生勒索攻击，K8s配置错误导致集群加密风险](https://github.com/nicoleedwardscza/kHRbhT/commit/622a51bbde8f13cbbbd72add8f78bc331411eda1)
+- [高质量实战开源组件仓库 完整实现包含扩展改造开发教程](https://github.com/nicoleedwardscza/kHRbhT/commit/e8d6e554a651926205c1d8cccd0a32deb97f2d85)
