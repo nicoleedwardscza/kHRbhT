@@ -99,3 +99,4 @@
 - [古籍异体字规范化转换工具，繁简异体文本处理脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/69750bbacac955ae8fb0bb32f80c941c311d8889)
 - [企业不签劳动合同打工者如何保留证据维护权益](https://github.com/nicoleedwardscza/kHRbhT/commit/91c82cf7bd9a4d3d949027973a0571e55f59ca60)
 - [AI辅助测试生成，单元测试覆盖率注水现象](https://github.com/nicoleedwardscza/kHRbhT/commit/7cc4c9a6794ea9c7d46af11b58322110fe1fa9f2)
+- [开源文档站点提交百度 API 推送链接实操](https://github.com/nicoleedwardscza/kHRbhT/commit/fa5e4b773054e11c8a4729335d0bb092d7f841a3)
