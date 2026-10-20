@@ -41,3 +41,4 @@
 - [文档携带间接提示注入，上传文件攻击防护](https://github.com/nicoleedwardscza/kHRbhT/commit/03ca7d5a2a63f80701b9db0947b826975c95da22)
 - [GitHub仓库归档仓库批量识别脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/fcf5ad2d3ffb32c99444d8fcce198c029a182cc4)
 - [零信任网络真实落地，替代VPN之后的利弊](https://github.com/nicoleedwardscza/kHRbhT/commit/bb447bc7822fa4b818570b37125d11b617eab180)
+- [全栈文件 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/nicoleedwardscza/kHRbhT/commit/a4fd60e2d8c2a02a9848c99b74b71a9f5127c8e0)
