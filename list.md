@@ -143,3 +143,4 @@
 - [AI安全红队常态化，业务Agent渗透测试流程](https://github.com/nicoleedwardscza/kHRbhT/commit/a4462c0151df202013e722ea0dbdcc90eb275ae4)
 - [微短剧风口逐渐褪去，新人入局很难分得红利](https://github.com/nicoleedwardscza/kHRbhT/commit/c722bff07b7966d9da5311ada5dfa499fb9a464d)
 - [线上遗嘱办理常态化家庭财富传承更便捷](https://github.com/nicoleedwardscza/kHRbhT/commit/71356dbc24f1e07032dbbc0730cd4a957668d273)
+- [美债消息满天飞，别被短期消息左右操作](https://github.com/nicoleedwardscza/kHRbhT/commit/027474b9857928f3805fdcbdd53fd691129ce8d2)
