@@ -138,3 +138,4 @@
 - [危废行业产能过剩环保企业市场竞争压力加大](https://github.com/nicoleedwardscza/kHRbhT/commit/d90e5af3dcf88df4d8ee4f5b1e6f237c2e957fc2)
 - [非遗数字化活化，传统文化数字传播边界](https://github.com/nicoleedwardscza/kHRbhT/commit/c2990d008021c7d2ac4c44958483bbee81aebda8)
 - [跨境直播电商崛起国货出海新赛道](https://github.com/nicoleedwardscza/kHRbhT/commit/dc13e9a4127fa35e1604a8b03e4b59e3db92d67d)
+- [碳排放权质押试点企业利用碳资产获得融资新渠道](https://github.com/nicoleedwardscza/kHRbhT/commit/b5f6cf45d5d9fb38e7eb2c3067ef02bd465ed45f)
