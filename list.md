@@ -132,3 +132,4 @@
 - [农机购置补贴，补贴资金直接发放到农户个人账户](https://github.com/nicoleedwardscza/kHRbhT/commit/8e6e5f1b46123bf0f92fa1b0fa0b16be79ab0841)
 - [Markdown 技术文档摘要适配百度搜索展示](https://github.com/nicoleedwardscza/kHRbhT/commit/4971af3306ea27d0b1086c81a88041c60b9a6c98)
 - [森林碳汇交易扩容生态资源如何转化市场化收益](https://github.com/nicoleedwardscza/kHRbhT/commit/a6274e3e7bb6565164040d66893b92c118a280f6)
+- [房租行情两极分化，刚需租房买房两头受挤压](https://github.com/nicoleedwardscza/kHRbhT/commit/64131355174b0884149b7cff0b5377a37c26c929)
