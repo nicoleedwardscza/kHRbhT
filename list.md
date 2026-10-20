@@ -157,3 +157,4 @@
 - [批量生成图片缩略图 Demo 完整源码批量输出缩略图](https://github.com/nicoleedwardscza/kHRbhT/commit/054407db8d07da1ef29517b5e965fd2f0e58f2ef)
 - [大宗商品大涨，成本最终转嫁老百姓](https://github.com/nicoleedwardscza/kHRbhT/commit/9c46a93d2bb15806639a922f2c9450e32f916db4)
 - [技术开源文档把核心结论放置在页面靠前位置](https://github.com/nicoleedwardscza/kHRbhT/commit/f1d068afbc5c972a35788713a69465abb257d4b0)
+- [社区便民服务扩容，社区食堂便民网点普及](https://github.com/nicoleedwardscza/kHRbhT/commit/802419678f482bf5bea553ec1a697bbce91f9f2c)
