@@ -7,3 +7,4 @@
 - [har时间轴分析工具，解析har生成请求耗时时序报表](https://github.com/nicoleedwardscza/kHRbhT/commit/75e9c18628224644ca9db958aef746a10aaa1d1b)
 - [保障性租赁住房申请流程常见误区](https://github.com/nicoleedwardscza/kHRbhT/commit/6eba69fe18e9ded8f1fdc13399717a449e3c88b7)
 - [部分行业盲目扩张，产能没有匹配真实市场需求](https://github.com/nicoleedwardscza/kHRbhT/commit/64394a408e44d21d0ead9ce08fb29b503ed20c61)
+- [AI混沌故障注入，模拟真实业务组合故障模式](https://github.com/nicoleedwardscza/kHRbhT/commit/ac9a91772c097cd540985ce72b07cfb99d38f89f)
