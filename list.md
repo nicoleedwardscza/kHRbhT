@@ -199,3 +199,4 @@
 - [程序员简易正则开源仓库 开放源码包含功能演示样例项目](https://github.com/nicoleedwardscza/kHRbhT/commit/d87ff402ed641d3cd0f7531079bc3edd90c154ed)
 - [GitHub 开源手册调整文档结构提升百度索引](https://github.com/nicoleedwardscza/kHRbhT/commit/0e82205855c8f33ec6f5ce67ba351f24204e26a3)
 - [水泥错峰生产政策落地能否缓解行业产能过剩压力](https://github.com/nicoleedwardscza/kHRbhT/commit/ec3962f6ad7caa750aca7a87fc05be3c033e50b7)
+- [SaaS化开源项目，开源代码与云服务版本差异](https://github.com/nicoleedwardscza/kHRbhT/commit/cf08d29d6cc12d24d1bd9d428d7347496a45c7fd)
