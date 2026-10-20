@@ -15,3 +15,4 @@
 - [企业数字化改造补贴落地传统产业智能化转型机遇](https://github.com/nicoleedwardscza/kHRbhT/commit/a30a11804f4e25b4e50b06cce01aef1812df8f92)
 - [宠物疫苗假货普通消费者识别方法](https://github.com/nicoleedwardscza/kHRbhT/commit/528568b49c01d73266200bb1aad50aec57a74eea)
 - [全民科普阵地下沉，县域科普场馆建设](https://github.com/nicoleedwardscza/kHRbhT/commit/a85dfa52aa4a319a03dc4dd48812898ce7bd8804)
+- [github仓库webhook投递失败重试脚本，重放投递失败webhook事件](https://github.com/nicoleedwardscza/kHRbhT/commit/31956d884603c587cc6a948033cf889a3cb7bdc3)
