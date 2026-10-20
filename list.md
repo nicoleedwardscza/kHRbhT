@@ -177,3 +177,4 @@
 - [实战型开源业务工程库 全套源码包含业务参数配置样例](https://github.com/nicoleedwardscza/kHRbhT/commit/1c676c7697fd0a6fed13a7325c26d89588230736)
 - [多语言混合项目，CI多环境测试配置难题](https://github.com/nicoleedwardscza/kHRbhT/commit/6e26ef5a5653abc9b17de36aabf7aa7ec0860536)
 - [正则处理开源案例仓库 可复用源码与功能模块集成接入指南](https://github.com/nicoleedwardscza/kHRbhT/commit/9606aab8158fb839e2c8965b7a9789c3b04486ee)
+- [AI超融合一体机，边缘私有化快速部署方案](https://github.com/nicoleedwardscza/kHRbhT/commit/860a833009b08a434362d71d8c79afc566b4b0da)
