@@ -94,3 +94,4 @@
 - [个人信用体系优化，减少过度征信惩戒](https://github.com/nicoleedwardscza/kHRbhT/commit/ce8b02a25008c13c05f4ec5f5d0079466861fe8a)
 - [共享车位大规模盘活，城市停车难题缓解](https://github.com/nicoleedwardscza/kHRbhT/commit/6a39493b6a74d85801dc1379d6728f8def27bc99)
 - [GitHub Actions流水线经常卡顿，运行时长莫名拉长](https://github.com/nicoleedwardscza/kHRbhT/commit/25e376f9d738233e7cec2ec9a674e52fa6e89c6d)
+- [本地密码生成器，批量生成高强度密码支持自定义字符集规则](https://github.com/nicoleedwardscza/kHRbhT/commit/b616d88b6dd2cbd0aa9fd6d7b976d75c461c4bfa)
