@@ -85,3 +85,4 @@
 - [稻谷玉米轮换粮投放主粮保供稳价机制运行现状](https://github.com/nicoleedwardscza/kHRbhT/commit/b0af471bc6c7763eb21676db3e6036b47d3111a9)
 - [开源模块化解决方案 源码合集附带集成实操文档](https://github.com/nicoleedwardscza/kHRbhT/commit/12c14783f7d2c64472541817d461829fd0f011d4)
 - [实用组件开源源码库 源码资源包含上手排查文档](https://github.com/nicoleedwardscza/kHRbhT/commit/94811879e637c77db11e069537dc34814b4c9191)
+- [Markdown笔记加密多端同步工具，本地文档跨设备同步](https://github.com/nicoleedwardscza/kHRbhT/commit/49a2a4137be3774f0bed2eb6017aeb1dc09f79d2)
