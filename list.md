@@ -68,3 +68,4 @@
 - [AI虚拟身份泛滥，个人数字身份安全防护](https://github.com/nicoleedwardscza/kHRbhT/commit/da54e40a70663cd9c8ff33dea3a4ad019877f64f)
 - [职业教育社会偏见破除现实路径](https://github.com/nicoleedwardscza/kHRbhT/commit/7b99e27b3f50b15a90aec2f6382133e8b374b0c5)
 - [ssh known_hosts去重清理工具，清理known_hosts重复主机条目](https://github.com/nicoleedwardscza/kHRbhT/commit/01554d79d84840afebc0229174d867a75e3f8ae4)
+- [液冷大规模普及，老旧机房改造成本与限制](https://github.com/nicoleedwardscza/kHRbhT/commit/11f3bb9d197cb1754dc6aa6f2b69146a4c2dadf3)
