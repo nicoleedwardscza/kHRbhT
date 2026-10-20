@@ -98,3 +98,4 @@
 - [pdf批量页面裁剪四边边距，统一裁切全部页面四边空白](https://github.com/nicoleedwardscza/kHRbhT/commit/0cdacf28ac7f36f7369d4372b7a079c13486c948)
 - [古籍异体字规范化转换工具，繁简异体文本处理脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/69750bbacac955ae8fb0bb32f80c941c311d8889)
 - [企业不签劳动合同打工者如何保留证据维护权益](https://github.com/nicoleedwardscza/kHRbhT/commit/91c82cf7bd9a4d3d949027973a0571e55f59ca60)
+- [AI辅助测试生成，单元测试覆盖率注水现象](https://github.com/nicoleedwardscza/kHRbhT/commit/7cc4c9a6794ea9c7d46af11b58322110fe1fa9f2)
