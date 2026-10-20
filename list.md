@@ -135,3 +135,4 @@
 - [房租行情两极分化，刚需租房买房两头受挤压](https://github.com/nicoleedwardscza/kHRbhT/commit/64131355174b0884149b7cff0b5377a37c26c929)
 - [无障碍设施重建设轻维护如何破解](https://github.com/nicoleedwardscza/kHRbhT/commit/979922ee8ff655fa721a836694da4fd0580f25a1)
 - [文本摘要提取开源工程 完整源码提取文档核心摘要内容](https://github.com/nicoleedwardscza/kHRbhT/commit/a2e469b8a36e745e9819b65491f0e12f239ef7ff)
+- [危废行业产能过剩环保企业市场竞争压力加大](https://github.com/nicoleedwardscza/kHRbhT/commit/d90e5af3dcf88df4d8ee4f5b1e6f237c2e957fc2)
