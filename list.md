@@ -179,3 +179,4 @@
 - [正则处理开源案例仓库 可复用源码与功能模块集成接入指南](https://github.com/nicoleedwardscza/kHRbhT/commit/9606aab8158fb839e2c8965b7a9789c3b04486ee)
 - [AI超融合一体机，边缘私有化快速部署方案](https://github.com/nicoleedwardscza/kHRbhT/commit/860a833009b08a434362d71d8c79afc566b4b0da)
 - [CSV 大文件解析开源 Demo 完整源码流式读取超大 csv 文件](https://github.com/nicoleedwardscza/kHRbhT/commit/30c77a9b2f07a45ad74874dda7114b48fd6cd52f)
+- [轻量脚本工具开源合集 源码配套运行异常处理逻辑示例](https://github.com/nicoleedwardscza/kHRbhT/commit/af800ca1b98fd15c2ca799f5ca8d871da9a8ca72)
