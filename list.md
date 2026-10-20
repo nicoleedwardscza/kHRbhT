@@ -95,3 +95,4 @@
 - [共享车位大规模盘活，城市停车难题缓解](https://github.com/nicoleedwardscza/kHRbhT/commit/6a39493b6a74d85801dc1379d6728f8def27bc99)
 - [GitHub Actions流水线经常卡顿，运行时长莫名拉长](https://github.com/nicoleedwardscza/kHRbhT/commit/25e376f9d738233e7cec2ec9a674e52fa6e89c6d)
 - [本地密码生成器，批量生成高强度密码支持自定义字符集规则](https://github.com/nicoleedwardscza/kHRbhT/commit/b616d88b6dd2cbd0aa9fd6d7b976d75c461c4bfa)
+- [pdf批量页面裁剪四边边距，统一裁切全部页面四边空白](https://github.com/nicoleedwardscza/kHRbhT/commit/0cdacf28ac7f36f7369d4372b7a079c13486c948)
