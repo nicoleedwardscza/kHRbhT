@@ -52,3 +52,4 @@
 - [储蓄型保险热销低利率环境下保险产品配置价值解析](https://github.com/nicoleedwardscza/kHRbhT/commit/d98f4ed149697fca93805ea9dc13ba379b0277fe)
 - [工商业储能需求爆发企业侧储能打开巨大增量市场](https://github.com/nicoleedwardscza/kHRbhT/commit/e535c4deb71558204300032baa717423161a1c18)
 - [一人公司大肆宣传，普通人创业陷阱重重](https://github.com/nicoleedwardscza/kHRbhT/commit/5608d1cb9eb66990ad3c76bde92c00a4d5205d15)
+- [中间件链式处理开源工程 完整源码 http 中间件链式执行逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/72e9905126c3100a7ae04cec5cb78fd90711e7a2)
