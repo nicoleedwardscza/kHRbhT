@@ -14,3 +14,4 @@
 - [物联网传感器时序数据压缩工具，降低存储占用优化读写](https://github.com/nicoleedwardscza/kHRbhT/commit/548d44aa018b1d67b91557c027b5f79e3e0f2285)
 - [企业数字化改造补贴落地传统产业智能化转型机遇](https://github.com/nicoleedwardscza/kHRbhT/commit/a30a11804f4e25b4e50b06cce01aef1812df8f92)
 - [宠物疫苗假货普通消费者识别方法](https://github.com/nicoleedwardscza/kHRbhT/commit/528568b49c01d73266200bb1aad50aec57a74eea)
+- [全民科普阵地下沉，县域科普场馆建设](https://github.com/nicoleedwardscza/kHRbhT/commit/a85dfa52aa4a319a03dc4dd48812898ce7bd8804)
