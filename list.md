@@ -4,3 +4,4 @@
 - [手握现金躺平避险，通胀正在悄悄消耗财富](https://github.com/nicoleedwardscza/kHRbhT/commit/163e93203142da8dfd876feb86427079fb41b4a3)
 - [个体很难对抗宏观周期，如何做好个人规划](https://github.com/nicoleedwardscza/kHRbhT/commit/d7f7b74de7c0c5024eeb96eee3e82299fed86f6d)
 - [A股四季度行情展望政策与业绩双驱动下市场机会在哪里](https://github.com/nicoleedwardscza/kHRbhT/commit/b6f9c48c4a4e6e50b1e40c20fa14acd94f4dbfc7)
+- [har时间轴分析工具，解析har生成请求耗时时序报表](https://github.com/nicoleedwardscza/kHRbhT/commit/75e9c18628224644ca9db958aef746a10aaa1d1b)
