@@ -188,3 +188,4 @@
 - [轻量高效实战开源源码 源码资源含异常问题处理手册](https://github.com/nicoleedwardscza/kHRbhT/commit/c8090424068818bc700d0b9f4cbd3d87f763870d)
 - [JSON 批量转 CSV 开源仓库 完整源码文件格式批量转换](https://github.com/nicoleedwardscza/kHRbhT/commit/71c79b5f13ab4c0ee279282c4d1eea93b341bc47)
 - [多进程共享内存源码 完整源码多进程共享内存读写](https://github.com/nicoleedwardscza/kHRbhT/commit/6df2e8350e6174d7fe9b89f1d833863348c365df)
+- [粮食库存充足背景下国内粮食安全保障体系现状解析](https://github.com/nicoleedwardscza/kHRbhT/commit/cfa85e84a55850f9b1ef019fdc15dacfd54c4f56)
