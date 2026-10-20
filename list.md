@@ -57,3 +57,4 @@
 - [github.io 域名 403 拦截百度蜘蛛完整分析](https://github.com/nicoleedwardscza/kHRbhT/commit/fe847c72d9232ec8d71736dc8a818ba1c1189815)
 - [工业母机利好不断释放，大规模突破尚需时日](https://github.com/nicoleedwardscza/kHRbhT/commit/41181dc01b0600d2262fa5b0b365b72fdc668b8b)
 - [异步任务池开源工程 完整源码管理大量异步任务调度](https://github.com/nicoleedwardscza/kHRbhT/commit/666fb04216099a6809cadc1b2a2fe250370833d1)
+- [新市民住房补贴，外来务工群体安居支持](https://github.com/nicoleedwardscza/kHRbhT/commit/f7b971d519d1ebb3c4a93a49aa1a3f5cadd7c7c2)
