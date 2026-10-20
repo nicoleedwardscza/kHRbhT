@@ -23,3 +23,4 @@
 - [url参数排序标准化工具，对url查询参数排序生成标准化链接](https://github.com/nicoleedwardscza/kHRbhT/commit/56f6a2107aec1cf9da6a722f3d53e2fb6695ac98)
 - [JSON样本自动生成Schema校验规则脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/561a26db3723728ed1f110307ce651278bd3d71d)
 - [别迷信债市避险属性，债市回撤杀伤力惊人](https://github.com/nicoleedwardscza/kHRbhT/commit/4d8a0979d6829a26748eb9d95890c8c8d704049a)
+- [人民币汇率来回震荡，不必过度解读日常波动](https://github.com/nicoleedwardscza/kHRbhT/commit/d8b4c03fd24a2e8597edc3839c298a95584804cc)
