@@ -148,3 +148,4 @@
 - [github仓库secret扫描告警导出，导出密钥扫描发现的风险告警](https://github.com/nicoleedwardscza/kHRbhT/commit/eaafa58c5320881b18874bd8c007d10ad1f75477)
 - [收缩城市人口外流，公共资源优化配置路径](https://github.com/nicoleedwardscza/kHRbhT/commit/c672ef95ad7cd35a3e5a75e432a483e9d46bd538)
 - [乡村学校师资流动难破解路径](https://github.com/nicoleedwardscza/kHRbhT/commit/40a06def311258a7f80269134347f15724498579)
+- [Excel 批量导入导出开源工程 完整源码百万级表格读写](https://github.com/nicoleedwardscza/kHRbhT/commit/5d009c27aa2d06ece4a862e4257d790091008c96)
