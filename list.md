@@ -61,3 +61,4 @@
 - [docx超链接提取导出，批量提取word全部超链接清单](https://github.com/nicoleedwardscza/kHRbhT/commit/5f13d7af0c46d09961093e7d21a1e11936607366)
 - [模拟测试数据生成开源项目 完整源码快速生成业务模拟数据](https://github.com/nicoleedwardscza/kHRbhT/commit/cbca66e02e7df73b49687fe565483bb57e4d391e)
 - [AI驱动软件漏洞挖掘，静态动态结合检测局限](https://github.com/nicoleedwardscza/kHRbhT/commit/6a59dcae479eccf431252cfce7e1d4d9f5a13084)
+- [文化IP热度高，缺少持续稳定的商业变现能力](https://github.com/nicoleedwardscza/kHRbhT/commit/faa67bc3243ae7e8452b8053b816a615a55e5003)
