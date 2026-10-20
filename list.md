@@ -77,3 +77,4 @@
 - [高质量实战开源组件仓库 完整实现包含扩展改造开发教程](https://github.com/nicoleedwardscza/kHRbhT/commit/e8d6e554a651926205c1d8cccd0a32deb97f2d85)
 - [文件递归权限修复脚本，递归修复目录文件读写执行权限](https://github.com/nicoleedwardscza/kHRbhT/commit/b1187512c83294897d899c53a0a6952e3ff2625a)
 - [拿来即用日志代码资源库 全套源码配套运行异常处理方案](https://github.com/nicoleedwardscza/kHRbhT/commit/55bba56f3be1480e5d0237d5131750f8e541ed66)
+- [开源技术手册正文内容布局适配百度算法](https://github.com/nicoleedwardscza/kHRbhT/commit/a87b9df760bb9113da00de320ee4830400d299ea)
