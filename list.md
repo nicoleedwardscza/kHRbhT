@@ -115,3 +115,4 @@
 - [创新药热度居高不下，跑通盈利模型的极少](https://github.com/nicoleedwardscza/kHRbhT/commit/e1c7d37ed0e96e152a34a47642a6d9de398ae08d)
 - [技术开源文档设置页面过期提示避免误导用户](https://github.com/nicoleedwardscza/kHRbhT/commit/f13dfcf7a6c9f8022160352385a55256d81e8862)
 - [轻量快速部署表格开源项目源码 源码开放包含本地部署步骤](https://github.com/nicoleedwardscza/kHRbhT/commit/5d22d79acf1c41a8656d8ead9d70415d2d663b8d)
+- [云厂商算力资本开支激增各大科技企业加大AI硬件战略囤货力度](https://github.com/nicoleedwardscza/kHRbhT/commit/d1878058189c31b66ec0bdf3170e66975e8b1829)
