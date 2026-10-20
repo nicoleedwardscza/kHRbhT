@@ -38,3 +38,4 @@
 - [PR被拒绝不说明理由，外部贡献者无法改进代码](https://github.com/nicoleedwardscza/kHRbhT/commit/d93eda299972634a589467c11ada427c9e7f8bdb)
 - [高效接口 Demo 实战开源源码合集 完整工程附带二次开发样例](https://github.com/nicoleedwardscza/kHRbhT/commit/8afed34bb765c79dc24332caac87f2bf0562552e)
 - [GitHub 接口自动化开源资源 可运行源码与本地落地实施手册](https://github.com/nicoleedwardscza/kHRbhT/commit/d0bc0d4147db93d41f69bb09264effdbce9bdc30)
+- [文档携带间接提示注入，上传文件攻击防护](https://github.com/nicoleedwardscza/kHRbhT/commit/03ca7d5a2a63f80701b9db0947b826975c95da22)
