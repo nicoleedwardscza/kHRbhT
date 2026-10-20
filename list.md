@@ -40,3 +40,4 @@
 - [GitHub 接口自动化开源资源 可运行源码与本地落地实施手册](https://github.com/nicoleedwardscza/kHRbhT/commit/d0bc0d4147db93d41f69bb09264effdbce9bdc30)
 - [文档携带间接提示注入，上传文件攻击防护](https://github.com/nicoleedwardscza/kHRbhT/commit/03ca7d5a2a63f80701b9db0947b826975c95da22)
 - [GitHub仓库归档仓库批量识别脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/fcf5ad2d3ffb32c99444d8fcce198c029a182cc4)
+- [零信任网络真实落地，替代VPN之后的利弊](https://github.com/nicoleedwardscza/kHRbhT/commit/bb447bc7822fa4b818570b37125d11b617eab180)
