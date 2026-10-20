@@ -120,3 +120,4 @@
 - [测试环境一键启动数据库开源源码库 源码资源配套环境初始化脚本](https://github.com/nicoleedwardscza/kHRbhT/commit/2718e099b7d3a9e99a4ec53805529f11b53805a1)
 - [进程守护监控源码 完整源码守护进程监测重启子进程](https://github.com/nicoleedwardscza/kHRbhT/commit/4efd1034c12ebf7fb9d6e11624ce3fe8cc2069c8)
 - [AI作业辅导规范化，如何避免学生思维惰性](https://github.com/nicoleedwardscza/kHRbhT/commit/ce05ddba7d98843dff20cf2028a9280a4e0edd87)
+- [风电整机价格走低风电行业盈利承压企业如何破局](https://github.com/nicoleedwardscza/kHRbhT/commit/4676ebb36e6cc7f5c31072e2b041d26f26dd2479)
