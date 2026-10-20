@@ -91,3 +91,4 @@
 - [源码文件导入导出排序工具，批量整理源码import导入语句顺序](https://github.com/nicoleedwardscza/kHRbhT/commit/500eea0b54c3f702fd93a68236a33762fa028eb5)
 - [课后服务市场化引入，服务质量监管难题](https://github.com/nicoleedwardscza/kHRbhT/commit/c6201bc1cdadd9f4a930112d19c684832387d9ee)
 - [企业留抵退税政策，如何切实减轻重资产企业负担](https://github.com/nicoleedwardscza/kHRbhT/commit/310f38f6d18d12dd7baecc82977268bd77b31057)
+- [个人信用体系优化，减少过度征信惩戒](https://github.com/nicoleedwardscza/kHRbhT/commit/ce8b02a25008c13c05f4ec5f5d0079466861fe8a)
