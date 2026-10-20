@@ -79,3 +79,4 @@
 - [拿来即用日志代码资源库 全套源码配套运行异常处理方案](https://github.com/nicoleedwardscza/kHRbhT/commit/55bba56f3be1480e5d0237d5131750f8e541ed66)
 - [开源技术手册正文内容布局适配百度算法](https://github.com/nicoleedwardscza/kHRbhT/commit/a87b9df760bb9113da00de320ee4830400d299ea)
 - [简易消息推送 Demo 开源仓库 完整源码实现多渠道消息推送逻辑](https://github.com/nicoleedwardscza/kHRbhT/commit/18696c68422e117dd76556026ab9366c63b4fc76)
+- [都说要逆向投资，普通人逆向往往抄在半山腰](https://github.com/nicoleedwardscza/kHRbhT/commit/c611aabfba20ac31141e5dace40145e75d7788a1)
