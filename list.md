@@ -165,3 +165,4 @@
 - [乡村文旅的长效运营，避免靠短期热度昙花一现](https://github.com/nicoleedwardscza/kHRbhT/commit/d8084c52285725b644c06bab96702ce00271b008)
 - [OAuth2 客户端凭证模式 Demo 完整源码客户端授权流程模拟](https://github.com/nicoleedwardscza/kHRbhT/commit/0fd66453134077c3a0ac8ec835a8b1fe381ce93d)
 - [绿色电力装机规模快速增长，风光发电占比持续稳步提升](https://github.com/nicoleedwardscza/kHRbhT/commit/4436853330b942316c236eebe62a3d8e216ab051)
+- [别被骗！消费复苏，只是局部热闹](https://github.com/nicoleedwardscza/kHRbhT/commit/d8a870c5175226d6121320533e8af86939e73351)
