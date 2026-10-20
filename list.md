@@ -25,3 +25,4 @@
 - [别迷信债市避险属性，债市回撤杀伤力惊人](https://github.com/nicoleedwardscza/kHRbhT/commit/4d8a0979d6829a26748eb9d95890c8c8d704049a)
 - [人民币汇率来回震荡，不必过度解读日常波动](https://github.com/nicoleedwardscza/kHRbhT/commit/d8b4c03fd24a2e8597edc3839c298a95584804cc)
 - [mongodb数据导出导入工具，批量导出集合过滤字段转csv](https://github.com/nicoleedwardscza/kHRbhT/commit/2ea47c7cf90bfd8be8ff135b3d4806bd2097eb8b)
+- [智算中心碳足迹审计，AI业务碳排放统计](https://github.com/nicoleedwardscza/kHRbhT/commit/0ef06b3c0c06eabbaa4da89fb1d0cb4c854bfc8b)
