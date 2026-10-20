@@ -162,3 +162,4 @@
 - [pdf页面顺序重排工具，调整pdf页面顺序删除多余页面](https://github.com/nicoleedwardscza/kHRbhT/commit/32706f1a5ae4d508bfacf1ff655e9f272b630b12)
 - [MQ 消息幂等消费开源工程 完整源码避免消息重复消费](https://github.com/nicoleedwardscza/kHRbhT/commit/bbd3a0554ef2c924d2212553bb829ec6333e214d)
 - [工厂模式业务实战工程 完整源码工厂模式业务场景示例](https://github.com/nicoleedwardscza/kHRbhT/commit/dddf9f12199b68e55673fe5f2ce834d1c5fad435)
+- [乡村文旅的长效运营，避免靠短期热度昙花一现](https://github.com/nicoleedwardscza/kHRbhT/commit/d8084c52285725b644c06bab96702ce00271b008)
